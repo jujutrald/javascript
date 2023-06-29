@@ -117,5 +117,5 @@ if (resultado <= 40) {
     return "Obesidade grau III"   
 } else if(resultado>=40 && resultado <=45.9){
    return "pessoa com obesidade grau III"
-} else if(resultado>=45.9)
+} else if(resultado>=45.9);
 }
